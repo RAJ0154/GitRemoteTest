@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 cnxcbxbcxz
 
 int a=5;
@@ -5,3 +6,6 @@ int a=5;
 int c=10;
 
 int sum=a+c;
+=======
+gfgfgfgfgfg
+>>>>>>> 898c0061965667aa537504919e347b307c062c6c
